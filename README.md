@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am JoneElmo (Programming Rookie).
+I am JoneElmo (Studying...).
 <!--数据统计-->
 <div>
 <span>  </span>

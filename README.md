@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am JoneElmo (Studying...).
+I am JoneElmo.
 <!--数据统计-->
 <div>
 <span>  </span>
@@ -15,6 +15,7 @@ I am JoneElmo (Studying...).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&label=OS)
+![](https://img.shields.io/badge/OS-Debian-blue?logo=Debian&label=OS)
 ![](https://img.shields.io/badge/OS-IDEA-blue?logo=IntelliJ%20IDEA&label=Editor)
 
 ![](https://img.shields.io/badge/Code-Java-2bbc8a?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAACMklEQVR4nO3XWYiNcRgG8GOPjCZlS4PMKBmFlBS5sN0QKc2UG+XCVq6IJEKIUArJmihlKUtKki0SkYiQGkujLBciW0346d+8U8dpkubMOafkufre79/3Pe/3Pu/2ZTL/8S8AA9CxlA7MwORSkbfHdcwqBXk7HEQD+hebvCtOa8SOrPvVGFFo8n64F+Q30QsbUI+N6FRo8vogf5S+FnX4jGkFI24Czgf5c/QNGX5ifKYY0EiWMA5t8BWvi0KegId4n2W/CIfGZIoBzAzCUWHPC/tcURxIwFYcjeu2uIPv6TpTDGjUfg2Gh70NFwtFNjo1GlzGEgzNOhuI7tiFPln3e2BnVMrMfMi74Fto/BG7o9Gsx7JoPtuxD2dwG7Oznj+Md/lGoBqrcQLXQu+ruJASD3uwHLWoynl2Ez4lyVpj6OzFcXTOOUtJOBhT0SFHhtc4lBd5ArrhQUjRENrWZbXghB/YH+M5DaorOIWyTCtm/oSQY0XkwioswiT0zopITatPRFREIt4LbZuS8Ahe4T5GtibhWJzF42g8lRHit37Hl8j+FJHKnHfMyceBN0GwtpmzrrEDlP9BrtrIj5btBlgYky5Nv1tYl/a+iMygaEIVMZKHYSLmRk94ipeYEu+qaqkTPTEfB2Lz+aB5pFp/hpORpJOjGsqwFFta5EATUu1jSNqGwi4P53rk1H6biExNLKtPsDjvRtSENHywACuj/6fIHIsOeQN3cQmbMb2kPyv/kflL/AJzz3GFACeqaQAAAABJRU5ErkJggg==&logoColor=white)

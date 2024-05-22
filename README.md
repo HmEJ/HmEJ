@@ -1,5 +1,4 @@
 ## Hi there 👋
-I am JoneElmo.
 <!--数据统计-->
 <!--
 <div>

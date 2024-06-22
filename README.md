@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!--数据统计-->
-<!--
+
 <div>
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=HmEJ" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HmEJ&layout=compact&langs_count=8" />
@@ -12,8 +12,9 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=HmEJ" />
 </div>
 -->
-
+<!--
 [![HmEJ's GitHub | Languages Over Time](https://stats.quine.sh/HmEJ/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=HmEJ)
+-->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&label=OS)

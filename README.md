@@ -18,6 +18,7 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&label=OS)
+![](https://img.shields.io/badge/OS-mac-blue?logo=macos&label=OS)
 ![](https://img.shields.io/badge/OS-Debian-blue?logo=Debian&label=OS)
 ![](https://img.shields.io/badge/OS-IDEA-blue?logo=IntelliJ%20IDEA&label=Editor)
 ![](https://img.shields.io/badge/OS-VSCode-blue?logo=code&label=Editor)
